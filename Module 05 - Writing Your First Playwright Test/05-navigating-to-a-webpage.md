@@ -20,7 +20,7 @@ You will learn:
 ### **Navigate to a Page**
 
 ```
-await page.goto('https://example.com');
+await page.goto('https://mini-shop.testamplify.com');
 ```
 
 ---
